@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Shabd-codes/DSA/tree/master/0206-reverse-linked-list) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Shabd-codes/DSA/tree/master/0066-plus-one) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Shabd-codes/DSA/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
