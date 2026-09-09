@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shabd-codes/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/Shabd-codes/DSA/tree/master/0031-next-permutation) |
 | [0876-middle-of-the-linked-list](https://github.com/Shabd-codes/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shabd-codes/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Shabd-codes/DSA/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/Shabd-codes/DSA/tree/master/0066-plus-one) |
 ## Math
 |  |
