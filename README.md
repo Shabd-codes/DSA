@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Shabd-codes/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/Shabd-codes/DSA/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Shabd-codes/DSA/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/Shabd-codes/DSA/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Shabd-codes/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shabd-codes/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -31,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Shabd-codes/DSA/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/Shabd-codes/DSA/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Shabd-codes/DSA/tree/master/0189-rotate-array) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Shabd-codes/DSA/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Shabd-codes/DSA/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
 | ------- |
