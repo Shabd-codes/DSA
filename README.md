@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shabd-codes/DSA/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Shabd-codes/DSA/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Shabd-codes/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Shabd-codes/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Shabd-codes/DSA/tree/master/0189-rotate-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Shabd-codes/DSA/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Shabd-codes/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Shabd-codes/DSA/tree/master/0125-valid-palindrome) |
 ## Stack
@@ -94,4 +96,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shabd-codes/DSA/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Shabd-codes/DSA/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
