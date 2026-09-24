@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Shabd-codes/DSA/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Shabd-codes/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Shabd-codes/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Shabd-codes/DSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Shabd-codes/DSA/tree/master/0189-rotate-array) |
 | [1922-count-good-numbers](https://github.com/Shabd-codes/DSA/tree/master/1922-count-good-numbers) |
 ## Divide and Conquer
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Shabd-codes/DSA/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Shabd-codes/DSA/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/Shabd-codes/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Shabd-codes/DSA/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shabd-codes/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Shabd-codes/DSA/tree/master/0136-single-number) |
 ## Trie
 |  |
@@ -109,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Shabd-codes/DSA/tree/master/0046-permutations) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Shabd-codes/DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
