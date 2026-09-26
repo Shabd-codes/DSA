@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shabd-codes/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Shabd-codes/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Shabd-codes/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Shabd-codes/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Shabd-codes/DSA/tree/master/0189-rotate-array) |
 | [1922-count-good-numbers](https://github.com/Shabd-codes/DSA/tree/master/1922-count-good-numbers) |
 ## Divide and Conquer
@@ -122,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Shabd-codes/DSA/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shabd-codes/DSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shabd-codes/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
