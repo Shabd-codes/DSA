@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Shabd-codes/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Shabd-codes/DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Shabd-codes/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Shabd-codes/DSA/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/Shabd-codes/DSA/tree/master/1922-count-good-numbers) |
 ## Array
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Shabd-codes/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Shabd-codes/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Shabd-codes/DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Shabd-codes/DSA/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/Shabd-codes/DSA/tree/master/1922-count-good-numbers) |
 ## Divide and Conquer
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Shabd-codes/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Shabd-codes/DSA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Shabd-codes/DSA/tree/master/0231-power-of-two) |
 ## Trie
 |  |
 | ------- |
